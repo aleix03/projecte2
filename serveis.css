@@ -1,0 +1,21 @@
+#qui_som_contenidor {
+        background: #dedede;
+        height: 944px;
+}
+#contenidor_contenidor {
+        padding: 150px;
+}
+#contenidor_contenidor h2 {
+        font-size: 30px;
+        padding-bottom: 40px;
+}
+#contenidor_contenidor > div {
+	background: rgba(0,0,0,.6);
+	height: 600px;	
+}
+#contenidor_contenidor > div > div {
+	width: 50%;
+	height: 300px;
+	float:left;
+	text-align: center;
+}
